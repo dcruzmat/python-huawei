@@ -1,0 +1,8 @@
+huaweicloudsdkcore >= 3.1.86
+huaweicloudsdkecs >= 3.1.85
+huaweicloudsdkcdn >= 3.1.85
+huaweicloudsdkims >= 3.1.85
+huaweicloudsdkvpc >= 3.1.85
+huaweicloudsdkas >= 3.1.85
+huaweicloudsdkobs >= 3.1.85
+huaweicloudsdkevs >= 3.1.85

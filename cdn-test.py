@@ -1,4 +1,3 @@
-#!usr/bin/env python3
 # coding: utf-8
 
 from huaweicloudsdkcore.auth.credentials import GlobalCredentials
@@ -27,9 +26,9 @@ if __name__ == "__main__":
 			.build()
         print("SCM connected")
 
-#        request = ListCertificatesRequest()
-#        response = client.list_certificates(request)
-#        print(response)
+        request = ListCertificatesRequest()
+        response = client.list_certificates(request)
+        print(response)
 
         client = CdnClient.new_builder() \
             .with_credentials(credentials) \

@@ -6,3 +6,4 @@ huaweicloudsdkvpc >= 3.1.85
 huaweicloudsdkas >= 3.1.85
 huaweicloudsdkobs >= 3.1.85
 huaweicloudsdkevs >= 3.1.85
+huaweicloudsdkscm >= 3.1.85
